@@ -9,6 +9,5 @@ WORKDIR /usr/share/nginx/html
 
 COPY index.html index.html
 
-# I don't have to specify EXPOSE or CMD because they're in my FROM
-#Hello All please update this file as per your experience
+
 
